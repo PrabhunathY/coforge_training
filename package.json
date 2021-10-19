@@ -1,0 +1,30 @@
+{
+  "name": "coforge_training",
+  "version": "1.0.0",
+  "description": "JavaScript project setup with Webpack",
+  "main": "index.js",
+  "scripts": {
+    "build": "webpack",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PrabhunathY/coforge_training.git"
+  },
+  "keywords": [
+    "JavaScript",
+    "Webpack",
+    "Bundle",
+    "Node"
+  ],
+  "author": "Prabhunath",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/PrabhunathY/coforge_training/issues"
+  },
+  "homepage": "https://github.com/PrabhunathY/coforge_training#readme",
+  "devDependencies": {
+    "webpack": "^5.58.2",
+    "webpack-cli": "^4.9.1"
+  }
+}
